@@ -102,10 +102,6 @@ function App() {
               </a>
             </div>
 
-            <div className="basis-full md:basis-5/12 flex justify-center">
-              <PhotoCard3D />
-            </div>
-
           </div>
           <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
             <ProfileCard
@@ -159,6 +155,10 @@ function App() {
                   className="text-sm md:text-base text-violet-400"
                 />
               </div>
+            </div>
+
+            <div className="basis-full md:basis-5/12 flex justify-center">
+              <PhotoCard3D />
             </div>
 
           </div>

@@ -4,6 +4,7 @@ import ShinyText from "./components/ShinyText/ShinyText";
 import BlurText from "./components/BlurText/BlurText";
 import ScrambledText from "./components/ScrambledText/ScrambledText";
 import SplitText from "./components/SplitText/SplitText";
+import PhotoCard3D from "./components/PhotoCard3D/PhotoCard3D";
 import GlassIcons from "./components/GlassIcons/GlassIcons";
 import { listTools, listProyek, profileData } from "./data";
 import ChromaGrid from "./components/ChromaGrid/ChromaGrid";
@@ -99,6 +100,10 @@ function App() {
               <a href="#project" className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors">
                 <ShinyText text="Explore My Projects" disabled={false} speed={3} className="custom-class" />
               </a>
+            </div>
+
+            <div className="basis-full md:basis-5/12 flex justify-center">
+              <PhotoCard3D />
             </div>
 
           </div>

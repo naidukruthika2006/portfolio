@@ -7,7 +7,7 @@ export const profileData = {
   handle: "kruthikanaidu",
   status: "Available",
   contactText: "Contact Me",
-  avatarUrl: "./assets/kruthika-avatar.svg",
+  avatarUrl: "./assets/kruthika-profile.jpeg",
   tagline: "Innovation in code, intelligence in action.",
   heroGreeting: "Hi I'm Kruthika Naidu",
   heroDescription:

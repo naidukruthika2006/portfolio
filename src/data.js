@@ -19,7 +19,7 @@ export const profileData = {
     { label: "Learning Focus", value: "AI + Web" },
     { label: "Current Role", value: "Student" }
   ],
-  resumeUrl: "./assets/CV.pdf",
+  resumeUrl: `${import.meta.env.BASE_URL}assets/CV.pdf`,
   resumeFileName: "Kruthika_Naidu_CV.pdf",
   email: "naidukruthika2006@gmail.com",
   github: "https://github.com/naidukruthika2006",

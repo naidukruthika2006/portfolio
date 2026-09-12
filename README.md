@@ -44,3 +44,5 @@ I am Kruthika Naidu, a B.Tech Computer Science student specializing in full-stac
 - **GitHub:** https://github.com/naidukruthika2006
 - **LinkedIn:** https://linkedin.com/in/kruthika-naidu
 - **Instagram:** https://www.instagram.com/kruthika___naidu
+
+Your portfolio is live at: https://naidukruthika2006.github.io/portfolio/
